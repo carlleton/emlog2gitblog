@@ -1,0 +1,2 @@
+# emlog2gitblog
+一个把emlog数据转换为gitblog中md格式的几句程序
